@@ -31,8 +31,8 @@ export default defineConfig({
     },
     {
       name: '联动表单',
-      path: '/Form',
-      component: './Form',
+      path: '/DependencyForm',
+      component: './DependencyForm',
     },
   ],
   npmClient: 'pnpm',
